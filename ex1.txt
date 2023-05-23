@@ -1,0 +1,2 @@
+learning how to add elements to staging area
+the command is git.add
